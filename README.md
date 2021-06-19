@@ -1,0 +1,1 @@
+# FlaskAuth-PasswordHash-Salt
